@@ -1,0 +1,5 @@
+{
+  "name": "TaxDrive LK",
+  "description": "Vehicle usage tracker and tax apportionment calculator compliant with Sri Lankan IRD guidelines for professionals.",
+  "requestFramePermissions": []
+}
